@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pretvorba Koordinat</string>
+    <string name="wgs64">Koordinate v WGS84 sistemu:</string>
+    <string name="d96">Koordinate v D96 sistemu:</string>
+</resources>
